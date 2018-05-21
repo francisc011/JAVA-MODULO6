@@ -11,7 +11,7 @@ private static List <String> assinaturas;
 	public static void main(String[] args) {
 		assinaturas = new ArrayList <String>();
 		Scanner dados = new Scanner (System.in);
-		int menu, qtd;
+		int menu;
 		String inserir;
 		do {
 		System.out.print("..:Assinaturas:.."
